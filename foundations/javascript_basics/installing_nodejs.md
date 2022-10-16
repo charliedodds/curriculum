@@ -36,7 +36,7 @@ sudo apt update && sudo apt upgrade
 Simply run this command:
 
 ~~~bash
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.2/install.sh | bash
 ~~~
 
 This will install `nvm`
